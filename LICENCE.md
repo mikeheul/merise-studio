@@ -1,6 +1,6 @@
 # Licence d'utilisation pédagogique — Merise Studio
 
-**Merise Studio v2.7**
+**Merise Studio**
 © 2026 Mickaël MURMANN. Tous droits réservés.
 
 ## 1. Objet
