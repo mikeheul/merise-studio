@@ -6,8 +6,6 @@ MCD, MLD, MPD, UML, génération de scripts SQL et MongoDB.
 > Version **2.7** · Windows (version portable, aucune installation)
 > Usage pédagogique — voir [LICENCE.md](LICENCE.md)
 
-![Icône de Merise Studio](icon.svg)
-
 ## Télécharger
 
 Récupérez le fichier **`Merise Studio 2.7.0.exe`** dans la section
