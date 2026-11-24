@@ -45,5 +45,3 @@ Les versions les plus récentes sont en haut.
 - Aide : ajout de la sélection multiple avec Maj + sélection.
 
 ## 2.4 et antérieures
-
-*Historique à compléter.*
