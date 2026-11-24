@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Merise Studio</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4263f6"/>
+      <stop offset="1" stop-color="#3a58ec"/>
+    </linearGradient>
+    <clipPath id="t1"><rect x="124" y="138" width="300" height="293" rx="44"/></clipPath>
+    <clipPath id="t2"><rect x="598" y="600" width="298" height="293" rx="44"/></clipPath>
+  </defs>
+  <rect width="1024" height="1024" rx="215" fill="url(#bg)"/>
+
+  <!-- liens -->
+  <g fill="none" stroke="#a9d0fa" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M476 272H690Q749 272 749 331V437"/>
+    <circle cx="749" cy="478" r="33"/>
+    <path d="M263 587V700Q263 763 326 763H548"/>
+    <circle cx="263" cy="552" r="33"/>
+  </g>
+
+  <!-- table 1 -->
+  <g clip-path="url(#t1)">
+    <rect x="124" y="138" width="300" height="293" fill="#fff"/>
+    <rect x="124" y="138" width="300" height="72" fill="#7cbcf8"/>
+    <rect x="226" y="210" width="12" height="221" fill="#4a69f2"/>
+  </g>
+  <g stroke="#4a69f2" stroke-width="16" stroke-linecap="round">
+    <path d="M156 289H383"/><path d="M156 357H383"/>
+  </g>
+
+  <!-- table 2 -->
+  <g clip-path="url(#t2)">
+    <rect x="598" y="600" width="298" height="293" fill="#fff"/>
+    <rect x="598" y="600" width="298" height="72" fill="#7cbcf8"/>
+    <rect x="676" y="672" width="12" height="221" fill="#4a69f2"/>
+  </g>
+  <g stroke="#4a69f2" stroke-width="16" stroke-linecap="round">
+    <path d="M630 751H856"/><path d="M630 820H856"/>
+  </g>
+
+  <!-- éclair -->
+  <path d="M540 387L430 532L504 518L479 650L595 490L524 502Z" fill="#fff" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
+</svg>
