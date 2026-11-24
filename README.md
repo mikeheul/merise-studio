@@ -3,12 +3,12 @@
 Outil de modélisation de bases de données **hors ligne** pour l'enseignement :
 MCD, MLD, MPD, UML, génération de scripts SQL et MongoDB.
 
-> Version **2.7** · Windows (version portable, aucune installation)
+> Windows (version portable, aucune installation)
 > Usage pédagogique — voir [LICENCE.md](LICENCE.md)
 
 ## Télécharger
 
-Récupérez le fichier **`Merise Studio 2.7.0.exe`** dans la section
+Récupérez le fichier **`Merise Studio <version>.exe`** dans la section
 **Releases** de ce dépôt (ou à l'emplacement indiqué par votre enseignant).
 
 > Le nom exact du fichier suit la version : `Merise Studio <version>.exe`.
