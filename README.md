@@ -1,17 +1,19 @@
 # Merise Studio
 
-Outil de modélisation de bases de données **hors ligne** pour l'enseignement :
-MCD, MLD, MPD, UML, génération de scripts SQL et MongoDB.
+Outil de modélisation de bases de données **gratuit et hors ligne**, pour
+apprendre, enseigner et concevoir : MCD, MLD, MPD, UML, génération de scripts
+SQL et MongoDB.
 
 > Windows (version portable, aucune installation)
-> Usage pédagogique — voir [LICENCE.md](LICENCE.md)
+> Gratuit pour l'apprentissage, l'enseignement et la conception courante —
+> voir [LICENCE.md](LICENCE.md)
 
 ## Télécharger
 
 Récupérez le fichier **`Merise Studio <version>.exe`** dans la section
-**Releases** de ce dépôt (ou à l'emplacement indiqué par votre enseignant).
+**Releases** de ce dépôt, en choisissant la dernière version publiée.
 
-> Le nom exact du fichier suit la version : `Merise Studio <version>.exe`.
+Les nouveautés de chaque version sont listées dans le [CHANGELOG](CHANGELOG.md).
 
 ## Démarrer
 
@@ -32,19 +34,20 @@ administrateur.
 
 ## Fonctionnalités
 
-- **MCD** : entités, associations (y compris ternaires), cardinalités, héritage,
+- **MCD** : entités, associations (ternaires comprises), cardinalités, héritage,
   identifiant relatif, notes et zones colorées.
 - **MLD** : passage automatique MCD → MLD selon les règles de Merise, avec
   explication pas à pas ; **clé primaire modifiable** depuis le MLD.
-- **MPD** et **scripts SQL** pour plusieurs SGBD (MySQL, PostgreSQL, SQL Server,
-  Oracle, SQLite) ; export **MongoDB**.
+- **MPD** et **scripts SQL** pour MySQL, MariaDB, PostgreSQL, SQL Server,
+  Oracle et SQLite ; export **MongoDB**.
 - **UML** : diagrammes de classes.
 - **Import d'un script SQL** : rétro-ingénierie vers un modèle MCD / MLD.
 - **Qualité du modèle** : vérifications et conseils.
-- **Export du dossier de conception** : archive ZIP (schémas en images,
-  scripts en texte) avec choix des éléments.
+- **Exports** : images PNG et SVG, dossier de conception et dictionnaire de
+  données (Word, Excel), archive ZIP au choix, visionneuse HTML et PDF A4/A3,
+  Mermaid, squelettes de code (Java, C#, PHP, TypeScript, Python).
 - **Fichier lié** : enregistrement dans un fichier précis (Ctrl+S).
-- Thèmes clair et sombre, recherche (Ctrl+K), aide intégrée.
+- Thèmes clair et sombre, recherche (Ctrl+K), exemples intégrés, aide intégrée.
 
 ## Vos données
 
@@ -69,19 +72,21 @@ Enregistrez vos projets en fichier et ouvrez-les sur l'autre poste
 (`Fichier → Ouvrir`, Ctrl+O). Les projets mémorisés localement ne suivent pas
 le fichier `.exe`.
 
-**Puis-je en donner une copie à un camarade ?**
+**Puis-je en donner une copie à un collègue ou à un camarade ?**
 Non : la redistribution n'est pas autorisée sans accord de l'auteur. Indiquez
 plutôt l'adresse de téléchargement. Voir [LICENCE.md](LICENCE.md).
 
 ## Licence
 
-© 2026 Mickaël MURMANN. Tous droits réservés. Outil mis à disposition des
-étudiants et enseignants du CESI pour un usage strictement pédagogique.
-Détails dans [LICENCE.md](LICENCE.md).
+© 2026 Mickaël MURMANN. Tous droits réservés. Outil mis gratuitement à
+disposition pour l'apprentissage, l'enseignement et la conception courante de
+bases de données, y compris dans un cadre professionnel. La redistribution, la
+modification et la revente sont interdites sans accord de l'auteur. Détails dans
+[LICENCE.md](LICENCE.md).
 
 L'application est fournie sans garantie : relisez et testez les scripts générés
 avant tout usage en production.
 
 ## Contact
 
-Mickaël MURMANN — CESI
+Mickaël MURMANN
