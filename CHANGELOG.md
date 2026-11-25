@@ -2,6 +2,14 @@
 
 Les versions les plus récentes sont en haut.
 
+## 2.7.1
+
+- **Licence et conditions d'utilisation élargies** : l'outil est gratuit pour
+  l'apprentissage, l'enseignement et la conception courante de bases de
+  données, y compris dans un cadre professionnel. La redistribution, la
+  modification et la revente restent interdites sans accord de l'auteur.
+- L'exemple du champ « Organisme » (visionneuse HTML) est désormais neutre.
+
 ## 2.7
 
 - **Clé primaire modifiable depuis le MLD** : sur une table d'association
@@ -45,3 +53,5 @@ Les versions les plus récentes sont en haut.
 - Aide : ajout de la sélection multiple avec Maj + sélection.
 
 ## 2.4 et antérieures
+
+*Historique à compléter.*
