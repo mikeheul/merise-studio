@@ -9,6 +9,11 @@ Les versions les plus récentes sont en haut.
   contenu quand la section est fermée, l'état est mémorisé, et deux liens
   permettent de tout replier ou tout déplier. Les sections s'affichent en
   cartes arrondies, avec un espacement plus confortable.
+- **Schéma lisible à faible zoom** : sous environ 60 % de zoom, les entités
+  du MCD n'affichent plus que leur nom, en plus gros, et reprennent leurs
+  attributs en zoomant. Les exports restent complets.
+- **Pied de page** : le texte de version et de copyright ne recouvre plus le
+  dernier élément de la barre latérale.
 - **Contrainte d'héritage mise en évidence** : le badge X, T ou XT est visible
   sur le titre de la section Héritage même repliée, et le choix actif est
   surligné. Un sous-type affiche la contrainte de sa mère, avec un lien pour
