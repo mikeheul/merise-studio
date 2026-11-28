@@ -1,4 +1,4 @@
-<p align="center"><img src="images/banner.svg" alt="Merise Studio : modélisez vos bases de données, du MCD au script SQL" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="Merise Studio : modélisez vos bases de données, du MCD au script SQL" width="100%"></p>
 
 # Merise Studio
 
