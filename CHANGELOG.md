@@ -2,6 +2,24 @@
 
 Les versions les plus récentes sont en haut.
 
+## 2.8
+
+- **Contraintes d'héritage** : sur une entité mère, choisissez une contrainte
+  portant sur ses sous-types : **X** (exclusion : au plus un sous-type),
+  **T** (totalité : au moins un) ou **XT** (partition : exactement un).
+  - Une pastille s'affiche près des triangles d'héritage du MCD. Un petit
+    « + » apparaît au survol quand aucune contrainte n'est définie ; un
+    double-clic sur la pastille fait défiler X, T, XT, aucune.
+  - La contrainte est aussi réglable dans la section « Héritage » de l'entité
+    mère, avec une explication pour chaque choix.
+  - Elle est **documentée** dans l'explication du MLD, en commentaires du
+    script SQL, sur le diagramme UML (`{disjoint}`, `{complete}`,
+    `{disjoint, complete}`) et dans la Qualité du modèle (contrainte avec un
+    seul sous-type ou sans sous-type, héritage sans contrainte).
+  - Elle n'est **pas appliquée** par le schéma SQL : elle est à contrôler dans
+    l'application ou par un déclencheur.
+  - Les projets existants s'ouvrent sans contrainte, rien ne change pour eux.
+
 ## 2.7.1
 
 - **Licence et conditions d'utilisation élargies** : l'outil est gratuit pour
