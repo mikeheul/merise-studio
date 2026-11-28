@@ -1,3 +1,5 @@
+<p align="center"><img src="images/banner.svg" alt="Merise Studio : modélisez vos bases de données, du MCD au script SQL" width="100%"></p>
+
 # Merise Studio
 
 Outil de modélisation de bases de données **gratuit et hors ligne**, pour
