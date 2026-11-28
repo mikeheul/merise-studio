@@ -34,7 +34,7 @@ administrateur.
 
 ## Fonctionnalités
 
-- **MCD** : entités, associations (ternaires comprises), cardinalités, héritage,
+- **MCD** : entités, associations (ternaires comprises), cardinalités, héritage (avec contraintes X, T, XT),
   identifiant relatif, notes et zones colorées.
 - **MLD** : passage automatique MCD → MLD selon les règles de Merise, avec
   explication pas à pas ; **clé primaire modifiable** depuis le MLD.
