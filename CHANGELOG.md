@@ -13,6 +13,7 @@ Les versions les plus récentes sont en haut.
   surligné. Un sous-type affiche la contrainte de sa mère, avec un lien pour
   la modifier.
 - **Points d'attache des liens d'héritage** : comme pour les liens classiques, sélectionnez un héritage et glissez les poignées rondes pour déplacer les extrémités de la flèche sur l'entité fille ou mère (double-clic sur une poignée ou bouton « Remettre en automatique » pour revenir au placement automatique).
+- **Correctif** : des champs de renommage (nom d'entité en cours d'édition) pouvaient rester affichés après la création d'entités ou l'ouverture d'un autre projet ; ils sont désormais toujours fermés.
 - Nouvel exemple **Contraintes d'héritage (X, T, XT)** dans Fichier > Exemples.
 
 - **Contraintes d'héritage** : sur une entité mère, choisissez une contrainte
