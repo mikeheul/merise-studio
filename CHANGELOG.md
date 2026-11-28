@@ -4,6 +4,8 @@ Les versions les plus récentes sont en haut.
 
 ## 2.8
 
+- Sections repliables de la barre latérale en cartes (bordure au survol, espacement confortable, ligne « Tout replier / Tout déplier » alignée).
+
 - **Barre latérale en sections repliables** : Attributs, Liens, Héritage et
   Vérifications se replient d'un clic (repliées par défaut). Le titre résume le
   contenu quand la section est fermée, l'état est mémorisé, et deux liens
