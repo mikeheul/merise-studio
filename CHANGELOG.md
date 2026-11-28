@@ -4,6 +4,7 @@ Les versions les plus récentes sont en haut.
 
 ## 2.8
 
+- Correctif Electron : les confirmations (nouveau projet, exemple, import) sont désormais intégrées à l'application ; les boîtes natives pouvaient bloquer la saisie au clavier (renommage d'entité impossible).
 - Sections repliables de la barre latérale en cartes (bordure au survol, espacement confortable, ligne « Tout replier / Tout déplier » alignée).
 
 - **Barre latérale en sections repliables** : Attributs, Liens, Héritage et
