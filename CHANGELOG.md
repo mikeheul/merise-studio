@@ -8,9 +8,11 @@ Les versions les plus récentes sont en haut.
   Vérifications se replient d'un clic (repliées par défaut). Le titre résume le
   contenu quand la section est fermée, l'état est mémorisé, et deux liens
   permettent de tout replier ou tout déplier.
-- **Contrainte d'héritage mise en évidence** : la section Héritage porte un
-  liseré, avec le badge X, T ou XT visible même repliée. Un sous-type affiche
-  la contrainte de sa mère, avec un lien pour la modifier.
+- **Contrainte d'héritage mise en évidence** : le badge X, T ou XT est visible
+  sur le titre de la section Héritage même repliée, et le choix actif est
+  surligné. Un sous-type affiche la contrainte de sa mère, avec un lien pour
+  la modifier.
+- **Points d'attache des liens d'héritage** : comme pour les liens classiques, sélectionnez un héritage et glissez les poignées rondes pour déplacer les extrémités de la flèche sur l'entité fille ou mère (double-clic sur une poignée ou bouton « Remettre en automatique » pour revenir au placement automatique).
 - Nouvel exemple **Contraintes d'héritage (X, T, XT)** dans Fichier > Exemples.
 
 - **Contraintes d'héritage** : sur une entité mère, choisissez une contrainte
