@@ -4,13 +4,11 @@ Les versions les plus récentes sont en haut.
 
 ## 2.8
 
-- Correctif Electron : les confirmations (nouveau projet, exemple, import) sont désormais intégrées à l'application ; les boîtes natives pouvaient bloquer la saisie au clavier (renommage d'entité impossible).
-- Sections repliables de la barre latérale en cartes (bordure au survol, espacement confortable, ligne « Tout replier / Tout déplier » alignée).
-
 - **Barre latérale en sections repliables** : Attributs, Liens, Héritage et
   Vérifications se replient d'un clic (repliées par défaut). Le titre résume le
   contenu quand la section est fermée, l'état est mémorisé, et deux liens
-  permettent de tout replier ou tout déplier.
+  permettent de tout replier ou tout déplier. Les sections s'affichent en
+  cartes arrondies, avec un espacement plus confortable.
 - **Contrainte d'héritage mise en évidence** : le badge X, T ou XT est visible
   sur le titre de la section Héritage même repliée, et le choix actif est
   surligné. Un sous-type affiche la contrainte de sa mère, avec un lien pour
@@ -18,6 +16,7 @@ Les versions les plus récentes sont en haut.
 - **Points d'attache des liens d'héritage** : comme pour les liens classiques, sélectionnez un héritage et glissez les poignées rondes pour déplacer les extrémités de la flèche sur l'entité fille ou mère (double-clic sur une poignée ou bouton « Remettre en automatique » pour revenir au placement automatique).
 - **Correctif** : des champs de renommage (nom d'entité en cours d'édition) pouvaient rester affichés après la création d'entités ou l'ouverture d'un autre projet ; ils sont désormais toujours fermés.
 - Nouvel exemple **Contraintes d'héritage (X, T, XT)** dans Fichier > Exemples.
+- **Correctif Electron** : les confirmations (nouveau projet, exemple, import SQL) sont désormais intégrées à l'application. Les boîtes natives pouvaient bloquer la saisie au clavier, rendant impossible le renommage d'une entité.
 
 - **Contraintes d'héritage** : sur une entité mère, choisissez une contrainte
   portant sur ses sous-types : **X** (exclusion : au plus un sous-type),
