@@ -4,6 +4,15 @@ Les versions les plus récentes sont en haut.
 
 ## 2.8
 
+- **Barre latérale en sections repliables** : Attributs, Liens, Héritage et
+  Vérifications se replient d'un clic (repliées par défaut). Le titre résume le
+  contenu quand la section est fermée, l'état est mémorisé, et deux liens
+  permettent de tout replier ou tout déplier.
+- **Contrainte d'héritage mise en évidence** : la section Héritage porte un
+  liseré, avec le badge X, T ou XT visible même repliée. Un sous-type affiche
+  la contrainte de sa mère, avec un lien pour la modifier.
+- Nouvel exemple **Contraintes d'héritage (X, T, XT)** dans Fichier > Exemples.
+
 - **Contraintes d'héritage** : sur une entité mère, choisissez une contrainte
   portant sur ses sous-types : **X** (exclusion : au plus un sous-type),
   **T** (totalité : au moins un) ou **XT** (partition : exactement un).
