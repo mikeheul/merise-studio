@@ -15,6 +15,7 @@ Les versions les plus récentes sont en haut.
   la modifier.
 - **Points d'attache des liens d'héritage** : comme pour les liens classiques, sélectionnez un héritage et glissez les poignées rondes pour déplacer les extrémités de la flèche sur l'entité fille ou mère (double-clic sur une poignée ou bouton « Remettre en automatique » pour revenir au placement automatique).
 - **Correctif** : des champs de renommage (nom d'entité en cours d'édition) pouvaient rester affichés après la création d'entités ou l'ouverture d'un autre projet ; ils sont désormais toujours fermés.
+- **Renommage d'entité** : l'identifiant `id_<entité>` suit désormais le nouveau nom (édition dans le MCD, la barre latérale ou la fenêtre flottante), et plus seulement à la création. Un identifiant renommé à la main n'est pas touché.
 - Nouvel exemple **Contraintes d'héritage (X, T, XT)** dans Fichier > Exemples.
 - **Correctif Electron** : les confirmations (nouveau projet, exemple, import SQL) sont désormais intégrées à l'application. Les boîtes natives pouvaient bloquer la saisie au clavier, rendant impossible le renommage d'une entité.
 
